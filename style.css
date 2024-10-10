@@ -1,0 +1,13 @@
+h2{
+color: white;
+display: inline-block;
+}
+ 
+a{
+    text-decoration: none;
+    padding: 20px;
+    background-color: brown;
+}
+/*body{
+    background-color: aqua;
+} */
